@@ -47,17 +47,6 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in Vue** 
 
-```text
-Vue                      2 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-TypeScript               2 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-JavaScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Go                       1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-```
-
-
-
-
- Last Updated on 24/07/2025 03:19:55 UTC
+ Last Updated on 24/07/2025 03:23:01 UTC
 <!--END_SECTION:waka-->
