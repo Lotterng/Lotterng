@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </picture>
 
 </div>
-<div align=center>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
@@ -48,4 +48,3 @@ No Activity Tracked This Week
 
  Last Updated on 24/07/2025 03:27:50 UTC
 <!--END_SECTION:waka-->
-</div>
