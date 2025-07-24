@@ -26,28 +26,26 @@ Here are some ideas to get you started:
 </div>
 
 ##
-<div align=center>
 
-  <!--START_SECTION:waka-->
-  ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-  
-  📊 **This Week I Spent My Time On** 
-  
-  ```text
-  🕑︎ Time Zone: Asia/Shanghai
-  
-  💬 Programming Languages: 
-  No Activity Tracked This Week
-  
-  🐱‍💻 Projects: 
-  No Activity Tracked This Week
-  
-  💻 Operating System: 
-  No Activity Tracked This Week
-  ```
-  
-  
-   Last Updated on 24/07/2025 03:27:50 UTC
-  <!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-</div>
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 24/07/2025 03:27:50 UTC
+<!--END_SECTION:waka-->
+
