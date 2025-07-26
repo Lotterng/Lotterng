@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 ##
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20mins-blue)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -46,6 +48,6 @@ Mac                      1 min               ███████████�
 ```
 
 
- Last Updated on 25/07/2025 18:50:46 UTC
+ Last Updated on 26/07/2025 18:47:41 UTC
 <!--END_SECTION:waka-->
 
