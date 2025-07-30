@@ -28,26 +28,7 @@ Here are some ideas to get you started:
 ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20mins-blue)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Vue.js                   1 min               ████████████████████████░   96.33 % 
-JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-
-🐱‍💻 Projects: 
-builder                  1 min               ████████████████████████░   96.33 % 
-js                       0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-
-💻 Operating System: 
-Mac                      1 min               █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 28/07/2025 18:52:26 UTC
+ Last Updated on 30/07/2025 18:51:41 UTC
 <!--END_SECTION:waka-->
 
