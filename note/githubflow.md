@@ -37,3 +37,6 @@
 
 # 删除远程分支（可选）
 git push origin --delete fix-typo-docs
+
+# 查看远端的origin与upstream信息
+git remote -v
